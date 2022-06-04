@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Ice Age",
+    "rating": "4.5",
+    "release_date": "23/9/2001"
+  },
+  {
+    "id": "2",
+    "name": "Iron man",
+    "rating": "7.5",
+    "release_date": "22/3/2011"
+  },
+  {
+    "id": "3",
+    "name": "Batman",
+    "rating": "8.5",
+    "release_date": "20/3/2011"
+  },
+  {
+    "id": "4",
+    "name": "Spiderman",
+    "rating": "6",
+    "release_date": "15/3/2016"
+  },
+  {
+    "id": "5",
+    "name": "Superman",
+    "rating": "5.3",
+    "release_date": "12/6/2013"
+  },
+  {
+    "id": "6",
+    "name": "Tangled",
+    "rating": "3.8",
+    "release_date": "12/6/2015"
+  },
+  {
+    "id": "7",
+    "name": "KGF",
+    "rating": "9.9",
+    "release_date": "21/5/2019"
+  },
+  {
+    "id": "8",
+    "name": "Pushpa",
+    "rating": "8.9",
+    "release_date": "31/7/2022"
+  },
+  {
+    "id": "9",
+    "name": "Joker",
+    "rating": "3.9",
+    "release_date": "11/2/2015"
+  },
+  {
+    "id": "10",
+    "name": "Top Gun",
+    "rating": "8.1",
+    "release_date": "26/8/1997"
+  },
+  {
+    "id": "11",
+    "name": "Rambo",
+    "rating": "9.1",
+    "release_date": "14/6/2002"
+  },
+  {
+    "id": "12",
+    "name": "Blood sport",
+    "rating": "8.2",
+    "release_date": "2/8/2014"
+  },
+  {
+    "id": "13",
+    "name": "Showdown",
+    "rating": "7.3",
+    "release_date": "21/6/2017"
+  },
+  {
+    "id": "14",
+    "name": "Raaz",
+    "rating": "6.9",
+    "release_date": "30/6/2021"
+  },
+  {
+    "id": "15",
+    "name": "X-men",
+    "rating": "9.3",
+    "release_date": "19/9/2022"
+  },
+  {
+    "id": "16",
+    "name": "MegaMmind",
+    "rating": "7.7",
+    "release_date": "10/11/2011"
+  },
+  {
+    "id": "17",
+    "name": "Jurrasic park",
+    "rating": "4.3",
+    "release_date": "27/11/2014"
+  },
+  {
+    "id": "18",
+    "name": "Speed",
+    "rating": "9",
+    "release_date": "13/9/2008"
+  },
+  {
+    "id": "19",
+    "name": "BaghBaan",
+    "rating": "8.6",
+    "release_date": "23/5/2004"
+  },
+  {
+    "id": "20",
+    "name": "Avengers",
+    "rating": "8.6",
+    "release_date": "26/7/2020"
+  }
+]
